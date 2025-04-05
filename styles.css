@@ -23,3 +23,170 @@ body {
     margin: 40px auto;
 
     padding: 30px;
+
+    background-color: #fff;
+
+    border-radius: 12px;
+
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+
+}
+
+header {
+
+    text-align: center;
+
+    padding-bottom: 30px;
+
+    border-bottom: 2px solid #e9ecef;
+
+    margin-bottom: 30px;
+
+    background-color: #e0f2f7; /* Light teal header background */
+
+    padding-top: 30px;
+
+    border-radius: 12px 12px 0 0;
+
+}
+
+header h1 {
+
+    color: #007bff;
+
+    margin-bottom: 10px;
+
+    font-size: 2.5em;
+
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.05);
+
+}
+
+header p {
+
+    color: #6c757d;
+
+    font-size: 1.1em;
+
+}
+
+.service-section {
+
+    margin-bottom: 40px;
+
+    padding: 25px;
+
+    background-color: #f9f9f9; /* Light gray service section background */
+
+    border-radius: 8px;
+
+    border: 1px solid #dee2e6;
+
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+
+}
+
+.service-info h2 {
+
+    color: #343a40;
+
+    margin-top: 0;
+
+    font-size: 1.8em;
+
+    margin-bottom: 10px;
+
+    border-bottom: 1px solid #eee; /* Subtle highlight under service title */
+
+    padding-bottom: 8px;
+
+}
+
+.service-info ul {
+
+    padding-left: 20px;
+
+    margin-bottom: 15px;
+
+}
+
+.service-info li {
+
+    color: #6c757d;
+
+    margin-bottom: 8px;
+
+}
+
+.call-to-action {
+
+    text-align: center;
+
+    padding: 40px 0;
+
+    background-color: #fff3cd; /* Light yellow call to action background */
+
+    border-radius: 12px;
+
+    margin-top: 40px;
+
+    border: 1px solid #ffeeba;
+
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+
+}
+
+.call-to-action h3 {
+
+    color: #343a40;
+
+    margin-bottom: 15px;
+
+    font-size: 2em;
+
+}
+
+.call-to-action p {
+
+    font-size: 1.4em;
+
+    font-weight: bold;
+
+    color: #007bff;
+
+    text-shadow: 1px 1px 1px rgba(0, 123, 255, 0.1);
+
+}
+
+.call-to-action a {
+
+    color: #007bff;
+
+    text-decoration: none;
+
+}
+
+.call-to-action a:hover {
+
+    text-decoration: underline;
+
+}
+
+footer {
+
+    text-align: center;
+
+    padding: 20px 0;
+
+    margin-top: 40px;
+
+    background-color: #343a40;
+
+    color: #fff;
+
+    border-radius: 0 0 12px 12px;
+
+    font-size: 0.9em;
+
+}
+
